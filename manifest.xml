@@ -1,0 +1,19 @@
+<package>
+  <description brief="drive_base">
+
+     roslcm_bridge
+
+  </description>
+  <author>peterkty</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/roslcm_bridge</url>
+  <depend package="roscpp"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs" />
+  <depend package="std_msgs" />
+  <depend package="tf" />
+  
+</package>
+
+
